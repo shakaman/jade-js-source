@@ -1,4 +1,4 @@
-# encoding: utfi-8
+# encoding: utf-8
 
 module JadeJs
   module Source
