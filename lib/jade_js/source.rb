@@ -1,3 +1,5 @@
+# encoding: utfi-8
+
 module JadeJs
   module Source
     def self.bundled_path
